@@ -5,31 +5,39 @@
   <img src="assests/banner.jpg" alt="Nitesh Agarwal Banner" width="100%"/>
 </div>
 
-<h1 align="center">Hi, I'm <span style="color:#32F7A6">Nitesh Agarwal</span></h1>
+<h1 align="center" style="font-size:2.8rem; font-weight:900; color:#32F7A6; text-shadow:0 0 20px #32F7A6, 0 0 40px #222;">
+  <img src="https://img.icons8.com/color/48/000000/rocket--v2.png" width="40" style="vertical-align:middle;"/> Hi, I'm Nitesh Agarwal
+</h1>
 
-<p align="center"><b>B.Tech CSE '28 | Full Stack | AI/ML | Graphics Head</b></p>
+<p align="center" style="font-size:1.3rem; font-weight:700; color:#fff; text-shadow:0 0 10px #32F7A6;">
+  <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="28" style="vertical-align:middle;"/> B.Tech CSE '28 &nbsp;|&nbsp; <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="28" style="vertical-align:middle;"/> Full Stack & AI/ML &nbsp;|&nbsp; <img src="https://img.icons8.com/color/48/000000/paint-palette.png" width="28" style="vertical-align:middle;"/> Graphics Head
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=32F7A6&center=true&vCenter=true&width=600&lines=Full+Stack+Dev;AI+%26+ML+Enthusiast;UI%2FUX+%2B+Graphic+Designer;Hackathon+Finalist;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=32F7A6&center=true&vCenter=true&width=600&lines=Full+Stack+Dev;AI+%26+ML+Enthusiast;UI%2FUX+%2B+Graphic+Designer;Hackathon+Finalist;Always+Learning" />
 </div>
 
 ---
 
-<h2 align="center">Achievements</h2>
-<ul>
-  <li>🏆 <b>Technowar Winner (IIT Delhi, Tryst’25)</b></li>
-  <li>🚀 <b>12+ Hackathons | 6x Finalist</b></li>
-  <li>🎨 <b>Graphics Head @ Campus Chronicles</b></li>
-  <li>✍️ <b>Author: <i>Finding My Self in the Lies</i></b></li>
+<h2 align="center" style="font-size:2rem; color:#FFD700; text-shadow:0 0 10px #FFD700;">
+  <img src="https://img.icons8.com/color/48/000000/trophy.png" width="32" style="vertical-align:middle;"/> Achievements
+</h2>
+<ul style="font-size:1.15rem;">
+  <li>🏆 <b style="color:#FFD700;">Technowar Winner (IIT Delhi, Tryst’25)</b></li>
+  <li>🚀 <b style="color:#32F7A6;">12+ Hackathons | 6x Finalist</b></li>
+  <li>🎨 <b style="color:#FF69B4;">Graphics Head @ Campus Chronicles</b></li>
+  <li>✍️ <b style="color:#FFA500;">Author: <i>Finding My Self in the Lies</i></b></li>
 </ul>
 ---
 
-<h2 align="center">Connect</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/nitesh-agarwal-9a1313317"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Niteshagarwal01"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:musicniteshagarwal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/cosmic_nitesh_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<h2 align="center" style="font-size:2rem; color:#32F7A6; text-shadow:0 0 10px #32F7A6;">
+  <img src="https://img.icons8.com/color/48/000000/connect.png" width="32" style="vertical-align:middle;"/> Connect
+</h2>
+<p align="center" style="margin-top:10px;">
+  <a href="https://www.linkedin.com/in/nitesh-agarwal-9a1313317"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" style="margin:0 10px; box-shadow:0 0 10px #0A66C2; border-radius:8px;"/></a>
+  <a href="https://github.com/Niteshagarwal01"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" style="margin:0 10px; box-shadow:0 0 10px #24292F; border-radius:8px; background:#24292F;"/></a>
+  <a href="mailto:musicniteshagarwal@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" style="margin:0 10px; box-shadow:0 0 10px #D14836; border-radius:8px;"/></a>
+  <a href="https://instagram.com/cosmic_nitesh_"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" style="margin:0 10px; box-shadow:0 0 10px #E4405F; border-radius:8px;"/></a>
 </p>
 ---
 
