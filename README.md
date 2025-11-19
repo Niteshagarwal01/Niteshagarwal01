@@ -17,15 +17,19 @@
 
 
 
-<h2 align="center" style="font-size:2rem; color:#FFD700; text-shadow:0 0 10px #FFD700;">
-  <img src="https://img.icons8.com/color/48/000000/trophy.png" width="32" style="vertical-align:middle;"/> Achievements
-</h2>
-<ul style="font-size:1.15rem;">
-  <li>🏆 <b style="color:#FFD700;">Technowar Winner (IIT Delhi, Tryst’25)</b></li>
-  <li>🚀 <b style="color:#32F7A6;">12+ Hackathons | 6x Finalist</b></li>
-  <li>🎨 <b style="color:#FF69B4;">Graphics Head @ Campus Chronicles</b></li>
-  <li>✍️ <b style="color:#FFA500;">Author: <i>Finding My Self in the Lies</i></b></li>
-</ul>
+
+<div align="center" style="background:rgba(50,247,166,0.07); border-radius:12px; padding:1.5rem 2rem; margin:2rem 0; box-shadow:0 0 20px #32F7A633;">
+  <h2 style="color:#FFD700; font-size:1.7rem; margin-bottom:0.5rem;">
+    <img src="https://img.icons8.com/color/48/000000/trophy.png" width="36" style="vertical-align:middle;"/> About & Achievements
+  </h2>
+  <ul style="font-size:1.18rem; text-align:left; max-width:600px; margin:auto;">
+    <li>🏆 <b style="color:#FFD700;">Technowar Winner (IIT Delhi, Tryst’25)</b></li>
+    <li>🚀 <b style="color:#32F7A6;">12+ Hackathons | 6x Finalist</b></li>
+    <li>🎨 <b style="color:#FF69B4;">Graphics Head @ Campus Chronicles</b></li>
+    <li>✍️ <b style="color:#FFA500;">Author: <i>Finding My Self in the Lies</i></b></li>
+    <li>💡 <b style="color:#32F7A6;">Passionate about building clean interfaces, smart AI systems, and meaningful digital experiences. I combine tech, design, and storytelling to create things that feel modern, human, and useful.</b></li>
+  </ul>
+</div>
 
 
 <h2 align="center" style="font-size:2rem; color:#32F7A6; text-shadow:0 0 10px #32F7A6;">
