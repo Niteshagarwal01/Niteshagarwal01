@@ -43,13 +43,15 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,nodejs,fastapi,flask,django,mongodb,mysql,git,python,php,tailwind,threejs,tensorflow,pytorch,pandas,numpy" />
 </p>
 
-
 <h2 align="center">GitHub Analytics & Stats</h2>
 <div align="center" style="display: flex; flex-direction: column; gap: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niteshagarwal01&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="80%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niteshagarwal01&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="80%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteshagarwal01&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" width="80%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niteshagarwal01&theme=github_dark" alt="Analytics Graph" width="80%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Niteshagarwal01&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="80%"/>
+  
+  <img src="https://streak-stats.demolab.com/?user=Niteshagarwal01&theme=github-dark-blue&hide_border=true" width="80%"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteshagarwal01&theme=github_dark&hide_border=true&layout=compact" width="80%"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niteshagarwal01&theme=github_dark" width="80%"/>
 </div>
 
 
