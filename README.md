@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="assests/banner.jpg" alt="Nitesh Agarwal Banner" width="100%"/>
 </div>
@@ -21,7 +20,7 @@
   <img src="https://img.icons8.com/color/48/000000/trophy.png" width="32" style="vertical-align:middle;"/> Achievements
 </h2>
 <ul style="font-size:1.15rem;">
-  <li>🏆 <b style="color:#FFD700;">Technowar Winner (IIT Delhi, Tryst’25)</b></li>
+  <li>🏆 <b style="color:#FFD700;">Technowar Winner (IIT Delhi, Tryst'25)</b></li>
   <li>🚀 <b style="color:#32F7A6;">12+ Hackathons | 6x Finalist</b></li>
   <li>🎨 <b style="color:#FF69B4;">Graphics Head @ Campus Chronicles</b></li>
   <li>✍️ <b style="color:#FFA500;">Author: <i>Finding My Self in the Lies</i></b></li>
@@ -48,14 +47,12 @@
 <h2 align="center">GitHub Analytics & Stats</h2>
 <div align="center" style="display: flex; flex-direction: column; gap: 16px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Niteshagarwal01&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="80%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Niteshagarwal01&theme=github-dark&hide_border=true" alt="GitHub Streak" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niteshagarwal01&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="80%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteshagarwal01&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" width="80%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niteshagarwal01&theme=github_dark" alt="Analytics Graph" width="80%"/>
 </div>
 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Niteshagarwal01&theme=github-dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="80%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Niteshagarwal01&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" width="80%"/>
 </div>
-
-
