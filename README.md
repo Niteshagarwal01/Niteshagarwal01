@@ -45,16 +45,39 @@
 
 <h2 align="center">GitHub Analytics & Stats</h2>
 <div align="center" style="display: flex; flex-direction: column; gap: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niteshagarwal01&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="80%"/>
-  
-  <img src="https://streak-stats.demolab.com/?user=Niteshagarwal01&theme=github-dark-blue&hide_border=true" width="80%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteshagarwal01&theme=github_dark&hide_border=true&layout=compact" width="80%"/>
+  <!-- GitHub Stats (Stable Mirror) -->
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Niteshagarwal01&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=0"
+    width="80%"
+  />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niteshagarwal01&theme=github_dark" width="80%"/>
+  <!-- Streak Stats (Stable Server) -->
+  <img 
+    src="https://streak-stats.demolab.com?user=Niteshagarwal01&theme=github-dark-blue&hide_border=true"
+    width="80%"
+  />
+
+  <!-- Top Languages (Stable Mirror) -->
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Niteshagarwal01&theme=github_dark&hide_border=true&layout=compact&cache_seconds=0"
+    width="80%"
+  />
+
+  <!-- Profile Summary Card (Stable) -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niteshagarwal01&theme=github_dark"
+    width="80%"
+  />
 </div>
 
-
+<!-- GitHub Trophies (Stable) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Niteshagarwal01&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" width="80%"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Niteshagarwal01&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7"
+    width="80%"
+  />
 </div>
+
+
+
