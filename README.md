@@ -44,40 +44,21 @@
 </p>
 
 <h2 align="center">GitHub Analytics & Stats</h2>
-<div align="center" style="display: flex; flex-direction: column; gap: 16px;">
-
-  <!-- GitHub Stats (Stable Mirror) -->
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Niteshagarwal01&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=0"
-    width="80%"
-  />
-
-  <!-- Streak Stats (Stable Server) -->
+<p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=Niteshagarwal01&theme=github-dark-blue&hide_border=true"
-    width="80%"
-  />
-
-  <!-- Top Languages (Stable Mirror) -->
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Niteshagarwal01&theme=github_dark&hide_border=true&layout=compact&cache_seconds=0"
-    width="80%"
-  />
-
-  <!-- Profile Summary Card (Stable) -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niteshagarwal01&theme=github_dark"
-    width="80%"
-  />
-</div>
-
-<!-- GitHub Trophies (Stable) -->
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Niteshagarwal01&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7"
-    width="80%"
-  />
-</div>
+    width="80%">
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niteshagarwal01&theme=github_dark" alt="profile details" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niteshagarwal01&theme=github_dark" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niteshagarwal01&theme=github_dark" alt="most commit language" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niteshagarwal01&theme=github_dark" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niteshagarwal01&theme=github_dark&utcOffset=5.5" alt="productive time" />
+</p>
 
 
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Niteshagarwal01&theme=onestar&no-frame=true&margin-w=10" alt="trophies"/>
+</p>
