@@ -46,8 +46,8 @@
 <h2 align="center">GitHub Analytics & Stats</h2>
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Niteshagarwal01&theme=github-dark-blue&hide_border=true"
-    width="80%">
+    src="https://github-readme-stats.vercel.app/api?username=Niteshagarwal01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&line_height=25"
+    alt="Nitesh's GitHub Stats">
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niteshagarwal01&theme=github_dark" alt="profile details" />
   <br/>
