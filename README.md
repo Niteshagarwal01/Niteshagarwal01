@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assests/banner.jpg" alt="Nitesh Agarwal Banner" width="100%"/>
+<img width="2970" height="743" alt="Blue Dark Blue Gradients Corporate LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/650c3082-b9e5-4c69-ba12-d405cd1a772b" />
 </div>
 
 <h1 align="center" style="font-size:2.8rem; font-weight:900; color:#32F7A6; text-shadow:0 0 20px #32F7A6, 0 0 40px #222;">
