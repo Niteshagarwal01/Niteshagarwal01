@@ -43,22 +43,40 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,nodejs,fastapi,flask,django,mongodb,mysql,git,python,php,tailwind,threejs,tensorflow,pytorch,pandas,numpy" />
 </p>
 
-<h2 align="center">GitHub Analytics & Stats</h2>
+## 📊 My GitHub Analytics & Stats
+
+### ⭐ Core GitHub Statistics
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Niteshagarwal01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&line_height=25"
-    alt="Nitesh's GitHub Stats">
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niteshagarwal01&theme=github_dark" alt="profile details" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niteshagarwal01&theme=github_dark" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niteshagarwal01&theme=github_dark" alt="most commit language" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niteshagarwal01&theme=github_dark" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niteshagarwal01&theme=github_dark&utcOffset=5.5" alt="productive time" />
+  <img
+    src="https://github-readme-stats-one-zeta.vercel.app/api?username=Niteshagarwal01&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&line_height=25&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117"
+    alt="Nitesh's GitHub Stats"
+  />
 </p>
 
+### 🔥 Contribution Streak and Totals
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Niteshagarwal01&theme=onestar&no-frame=true&margin-w=10" alt="trophies"/>
+  <img
+    src="https://github-readme-streak-stats-one-zeta.vercel.app/?user=Niteshagarwal01&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&dates=ffffff&currstreak=00ff00&sideNums=ffffff&sideLabels=ffffff&stroke=0d1117"
+    alt="GitHub Streak"
+  />
+</p>
+
+### 💻 Languages Used
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteshagarwal01&layout=compact&theme=dark&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117"
+    alt="Top Languages"
+  />
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Niteshagarwal01&theme=darkhub&no-frame=true&margin-w=10&title_color=00ff00&icon_color=00ff00"
+    alt="GitHub Trophies"
+  />
 </p>
