@@ -1,5 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nitesh%20Agarwal&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Creative%20Designer&descSize=20&descAlignY=55" />
+<img width="4950" height="1238" alt="LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/6416723c-011e-40e1-8b51-1a522ea81685" />
+
+
 </div>
 
 <br>
@@ -376,9 +378,6 @@ const developer = {
 <br>
 
 <!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=0&fontColor=fff&animation=twinkling" width="100%" />
-  
   <br>
   <h2><i>✨ Thanks for visiting! Show some love by starring repositories ✨</i></h2>
 </div>
