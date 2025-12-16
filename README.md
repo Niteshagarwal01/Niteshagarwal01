@@ -51,11 +51,17 @@ const developer = {
 </td>
 <td width="45%" valign="top">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation"/>
+</div>
+
+<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00F7A6?style=for-the-badge&logo=clockify&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Projects-50%2B-00F7A6?style=for-the-badge&logo=github&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Hackathons-12%2B-00F7A6?style=for-the-badge&logo=devpost&logoColor=white" />
 </div>
 
@@ -108,7 +114,7 @@ const developer = {
 <br>
 <sub>Finding My Self in the Lies</sub>
 <br>
-<sub>Available on Amazon</sub>
+<sub>Available on Personal Website</sub>
 </td>
 </tr>
 </table>
@@ -199,7 +205,9 @@ const developer = {
 <i>Contribution Activity Graph</i>
 </h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Niteshagarwal01&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00f7a6&line=00f7a6&point=ffffff&title_color=00f7a6" width="100%" alt="Contribution Graph"/>
+<a href="https://github.com/Niteshagarwal01">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niteshagarwal01&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=00f7a6&line=00f7a6&point=ffffff&area_color=00f7a6&area=true&hide_border=true&title_color=00f7a6" width="100%" alt="Contribution Graph"/>
+</a>
 
 <br><br>
 
@@ -208,13 +216,17 @@ const developer = {
 <i>Core Statistics</i>
 </h3>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Niteshagarwal01&theme=dark&hide_border=true&background=0D1117&ring=00F7A6&fire=00F7A6&currStreakLabel=00F7A6&sideNums=FFFFFF&sideLabels=00F7A6&dates=8B949E&stroke=0D1117&border_radius=10" alt="GitHub Streak" width="100%"/>
+<td width="50%" align="center" valign="top">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nikhil25803.github.io/github-readme-streak-stats/?user=Niteshagarwal01&theme=dark&hide_border=true&background=0D1117&ring=00F7A6&fire=00F7A6&currStreakLabel=00F7A6&sideNums=FFFFFF&sideLabels=00F7A6&dates=8B949E&stroke=0D1117&border_radius=10" alt="GitHub Streak Stats" width="100%"/>
+  </a>
 </td>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niteshagarwal01&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7A6&icon_color=00F7A6&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" width="100%"/>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/Niteshagarwal01">
+    <img src="https://github-readme-stats.vercel.app/api?username=Niteshagarwal01&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7A6&icon_color=00F7A6&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="100%"/>
+  </a>
 </td>
 </tr>
 </table>
@@ -226,13 +238,17 @@ const developer = {
 <i>Language Analytics & Productivity</i>
 </h3>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteshagarwal01&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7A6&text_color=FFFFFF&border_radius=10&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" width="100%"/>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/Niteshagarwal01">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteshagarwal01&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7A6&text_color=FFFFFF&border_radius=10&langs_count=10&hide=jupyter%20notebook" alt="Top Languages" width="100%"/>
+  </a>
 </td>
-<td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niteshagarwal01&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="100%"/>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/Niteshagarwal01">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niteshagarwal01&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="100%"/>
+  </a>
 </td>
 </tr>
 </table>
@@ -244,7 +260,9 @@ const developer = {
 <i>GitHub Achievements</i>
 </h3>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Niteshagarwal01&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" alt="GitHub Trophies" width="100%"/>
+<a href="https://github.com/Niteshagarwal01">
+  <img src="https://github-profile-trophy.vercel.app/?username=Niteshagarwal01&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&title=Stars,Followers,Commits,Repositories,MultLanguage,PullRequest,Issues" alt="GitHub Trophies" width="100%"/>
+</a>
 
 <br><br>
 
@@ -253,36 +271,46 @@ const developer = {
 <i>Detailed Contribution Metrics</i>
 </h3>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="100%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niteshagarwal01&theme=github_dark" alt="Profile Details" width="100%"/>
+  <a href="https://github.com/Niteshagarwal01">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niteshagarwal01&theme=github_dark" alt="Profile Details" width="100%"/>
+  </a>
 </td>
 </tr>
 </table>
 
 <br>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niteshagarwal01&theme=github_dark" alt="Repos per Language" width="100%"/>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/Niteshagarwal01">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niteshagarwal01&theme=github_dark" alt="Repos per Language" width="100%"/>
+  </a>
 </td>
-<td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niteshagarwal01&theme=github_dark" alt="Most Commit Language" width="100%"/>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/Niteshagarwal01">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niteshagarwal01&theme=github_dark" alt="Most Commit Language" width="100%"/>
+  </a>
 </td>
 </tr>
 </table>
 
 <br>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niteshagarwal01&theme=github_dark" alt="Stats Card" width="100%"/>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/Niteshagarwal01">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niteshagarwal01&theme=github_dark" alt="Stats Card" width="100%"/>
+  </a>
 </td>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niteshagarwal01&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7A6&icon_color=00F7A6&text_color=FFFFFF&border_radius=10&hide_rank=true&show=reviews,prs_merged,prs_merged_percentage&custom_title=Contribution%20Overview" alt="Contribution Overview" width="100%"/>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/Niteshagarwal01">
+    <img src="https://github-readme-stats.vercel.app/api?username=Niteshagarwal01&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7A6&icon_color=00F7A6&text_color=FFFFFF&border_radius=10&hide_rank=true&show=prs_merged_percentage&custom_title=Contribution%20Stats&card_width=400" alt="Contribution Overview" width="100%"/>
+  </a>
 </td>
 </tr>
 </table>
@@ -294,7 +322,9 @@ const developer = {
 <i>Annual Contribution Heatmap</i>
 </h3>
 
-<img src="https://ghchart.rshah.org/00F7A6/Niteshagarwal01" alt="GitHub Contribution Chart" width="100%"/>
+<a href="https://github.com/Niteshagarwal01">
+  <img src="https://ghchart.rshah.org/00F7A6/Niteshagarwal01" alt="GitHub Contribution Heatmap" width="100%"/>
+</a>
 
 </div>
 
@@ -308,10 +338,10 @@ const developer = {
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="20">
 <tr>
 <td align="center" width="25%">
-<a href="https://www.linkedin.com/in/nitesh-agarwal-9a1313317">
+<a href="https://www.linkedin.com/in/nitesh-agarwal-9a1313317" target="_blank">
 <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="90"/>
 <br><br>
 <b><i>LinkedIn</i></b>
@@ -320,7 +350,7 @@ const developer = {
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Niteshagarwal01">
+<a href="https://github.com/Niteshagarwal01" target="_blank">
 <img src="https://img.icons8.com/3d-fluency/94/github.png" width="90"/>
 <br><br>
 <b><i>GitHub</i></b>
@@ -338,7 +368,7 @@ const developer = {
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://instagram.com/cosmic_nitesh_">
+<a href="https://instagram.com/cosmic_nitesh_" target="_blank">
 <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="90"/>
 <br><br>
 <b><i>Instagram</i></b>
@@ -352,43 +382,11 @@ const developer = {
 <br>
 
 <p>
-<a href="https://www.linkedin.com/in/nitesh-agarwal-9a1313317"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Niteshagarwal01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nitesh-agarwal-9a1313317" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Niteshagarwal01" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:musicniteshagarwal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/cosmic_nitesh_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://instagram.com/cosmic_nitesh_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
-</div>
-
----
-
-<h2 align="center">
-<img src="https://img.icons8.com/3d-fluency/94/quote.png" width="40"/>
-<i>Random Dev Quote</i>
-<img src="https://img.icons8.com/3d-fluency/94/quote.png" width="40"/>
-</h2>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="100%"/>
-
-</div>
-
----
-
-<h2 align="center">
-<img src="https://img.icons8.com/3d-fluency/94/overview-pages-3.png" width="40"/>
-<i>Profile Analytics</i>
-<img src="https://img.icons8.com/3d-fluency/94/overview-pages-3.png" width="40"/>
-</h2>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Niteshagarwal01&color=00F7A6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<br><br>
-
-<img src="https://visitcount.itsvg.in/api?id=Niteshagarwal01&icon=5&color=6" alt="Visitor Count"/>
 
 </div>
 
