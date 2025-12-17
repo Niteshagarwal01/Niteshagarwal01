@@ -169,7 +169,10 @@ const developer = {
     </tr>
     <tr>
         <td align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-            <h3><img src="https://img.icons8.com/3d-fluency/50/artificial-intelligence.png"/>&nbsp; AI/ML & Data Science</h3>
+         <h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  &nbsp; AI/ML &amp; Data Science
+</h3>
             <p>
                 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
                 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -205,76 +208,29 @@ const developer = {
 <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" />
 </h2>
 
-<br>
-
 <div align="center">
-
-<!-- Row 1: Activity Graph (Full Width) -->
-<a href="https://github.com/Niteshagarwal01">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niteshagarwal01&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=00f7a6&line=00f7a6&point=ffffff&area_color=00f7a6&area=true&hide_border=true&title_color=00f7a6" width="100%" alt="Contribution Graph"/>
-</a>
-
-<br><br>
-
-<!-- Row 2: Stats and Streak (2 Columns) -->
-<a href="https://github.com/Niteshagarwal01">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niteshagarwal01&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7A6&icon_color=00F7A6&text_color=FFFFFF&border_radius=8&include_all_commits=true&count_private=true&rank_icon=github" width="49.5%" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/Niteshagarwal01">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Niteshagarwal01&theme=dark&hide_border=true&background=0D1117&ring=00F7A6&fire=00F7A6&currStreakLabel=00F7A6&sideNums=FFFFFF&sideLabels=00F7A6&dates=8B949E&border_radius=8" width="49.5%" alt="GitHub Streak"/>
-</a>
-
-<br><br>
-
-<!-- Row 3: Languages and Productivity (2 Columns) -->
-<a href="https://github.com/Niteshagarwal01">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteshagarwal01&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7A6&text_color=FFFFFF&border_radius=8&langs_count=8" width="49.5%" alt="Top Languages"/>
-</a>
-<a href="https://github.com/Niteshagarwal01">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niteshagarwal01&theme=github_dark&utcOffset=5.5" width="49.5%" alt="Productive Time"/>
-</a>
-
-<br><br>
-
-<!-- Row 4: Trophies (Full Width) -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Niteshagarwal01&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=7" width="100%" alt="GitHub Trophies"/>
-</a>
-
-<br><br>
-
-<!-- Row 5: Profile Details (Full Width) -->
-<a href="https://github.com/Niteshagarwal01">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niteshagarwal01&theme=github_dark" width="100%" alt="Profile Details"/>
-</a>
-
-<br><br>
-
-<!-- Row 6: Language Stats (3 Columns) -->
-<a href="https://github.com/Niteshagarwal01">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niteshagarwal01&theme=github_dark" width="32.5%" alt="Repos per Language"/>
-</a>
-<a href="https://github.com/Niteshagarwal01">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niteshagarwal01&theme=github_dark" width="32.5%" alt="Most Commit Language"/>
-</a>
-<a href="https://github.com/Niteshagarwal01">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niteshagarwal01&theme=github_dark" width="32.5%" alt="Stats"/>
-</a>
-
-<br><br>
-
-<!-- Row 7: Contribution Heatmap (Full Width) -->
-<a href="https://github.com/Niteshagarwal01">
-  <img src="https://ghchart.rshah.org/00F7A6/Niteshagarwal01" width="100%" alt="Contribution Heatmap"/>
-</a>
-
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Niteshagarwal01&show_icons=true&bg_color=0d1117&title_color=00f7a6&text_color=00f7a6&icon_color=00f7a6&border_color=00f7a6&count_private=true&border_radius=10&hide=issues" alt="GitHub Stats" width="100%" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteshagarwal01&layout=compact&bg_color=0d1117&title_color=00f7a6&text_color=00f7a6&border_color=00f7a6&langs_count=6&border_radius=10&hide_border=false" alt="Top Languages" width="100%" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://streak-stats.demolab.com/?user=Niteshagarwal01&background=0d1117&ring=00f7a6&fire=00f7a6&currStreakLabel=00f7a6&currStreakNum=00f7a6&sideNums=00f7a6&sideLabels=00f7a6&dates=00f7a6&border=00f7a6&stroke=00f7a6" alt="GitHub Streak" width="100%" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Niteshagarwal01&bg_color=0d1117&color=00f7a6&line=00f7a6&point=00f7a6&area_color=00f7a6&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
+</td>
+</tr>
+</table>
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
 
 <!-- DEV QUOTE SECTION -->
 <h2 align="center">
@@ -372,12 +328,6 @@ const developer = {
 </div>
 
 <br>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <br>
 
-<!-- FOOTER -->
-  <br>
-  <h2><i>✨ Thanks for visiting! Show some love by starring repositories ✨</i></h2>
-</div>
