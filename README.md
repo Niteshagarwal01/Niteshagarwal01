@@ -1,3 +1,4 @@
+
 <div align="center">
 <img width="4950" height="1238" alt="LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/6416723c-011e-40e1-8b51-1a522ea81685" />
 
@@ -231,6 +232,26 @@ const developer = {
 </table>
 </div>
 
+<!-- GITHUB TROPHIES SECTION -->
+<h2 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+<img src="https://img.icons8.com/3d-fluency/94/trophy.png" width="50"/>
+<i>&nbsp; GitHub Trophies &nbsp;</i>
+<img src="https://img.icons8.com/3d-fluency/94/trophy.png" width="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+</h2>
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Niteshagarwal01&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Niteshagarwal01's Trophies" />
+</a>
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
 
 <!-- DEV QUOTE SECTION -->
 <h2 align="center">
