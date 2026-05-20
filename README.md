@@ -211,14 +211,7 @@ const developer = {
 
 <div align="center">
 <table>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Niteshagarwal01&show_icons=true&bg_color=0d1117&title_color=00f7a6&text_color=00f7a6&icon_color=00f7a6&border_color=00f7a6&count_private=true&border_radius=10&hide=issues" alt="GitHub Stats" width="100%" />
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteshagarwal01&layout=compact&bg_color=0d1117&title_color=00f7a6&text_color=00f7a6&border_color=00f7a6&langs_count=6&border_radius=10&hide_border=false" alt="Top Languages" width="100%" />
-</td>
-</tr>
+
 <tr>
 <td colspan="2" align="center">
 <img src="https://streak-stats.demolab.com/?user=Niteshagarwal01&background=0d1117&ring=00f7a6&fire=00f7a6&currStreakLabel=00f7a6&currStreakNum=00f7a6&sideNums=00f7a6&sideLabels=00f7a6&dates=00f7a6&border=00f7a6&stroke=00f7a6" alt="GitHub Streak" width="100%" />
