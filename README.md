@@ -200,7 +200,6 @@ const developer = {
 </table>
 </div>
 
-<!-- GITHUB STATS SECTION -->
 <h2 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" />
 <img src="https://img.icons8.com/3d-fluency/94/bar-chart.png" width="60"/>
@@ -211,7 +210,14 @@ const developer = {
 
 <div align="center">
 <table>
-
+<tr>
+<td align="center" valign="middle" width="50%">
+<img src="https://github-stats-extended.vercel.app/api?username=Niteshagarwal01&show_icons=true&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=00f7a6&icon_color=00f7a6&text_color=c9d1d9" width="100%" />
+</td>
+<td align="center" valign="middle" width="50%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Niteshagarwal01&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7a6&text_color=c9d1d9" width="100%" />
+</td>
+</tr>
 <tr>
 <td colspan="2" align="center">
 <img src="https://streak-stats.demolab.com/?user=Niteshagarwal01&background=0d1117&ring=00f7a6&fire=00f7a6&currStreakLabel=00f7a6&currStreakNum=00f7a6&sideNums=00f7a6&sideLabels=00f7a6&dates=00f7a6&border=00f7a6&stroke=00f7a6" alt="GitHub Streak" width="100%" />
@@ -227,18 +233,14 @@ const developer = {
 
 <!-- GITHUB TROPHIES SECTION -->
 <h2 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
-<img src="https://img.icons8.com/3d-fluency/94/trophy.png" width="50"/>
+<img src="https://img.icons8.com/3d-fluency/94/trophy.png" width="40"/>
 <i>&nbsp; GitHub Trophies &nbsp;</i>
-<img src="https://img.icons8.com/3d-fluency/94/trophy.png" width="50"/>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+<img src="https://img.icons8.com/3d-fluency/94/trophy.png" width="40"/>
 </h2>
-
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Niteshagarwal01&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Niteshagarwal01's Trophies" />
-</a>
+<img src="https://github-trophies.vercel.app/?username=Niteshagarwal01&theme=radical&no-frame=true&margin-w=15" width="100%" />
 </div>
+
 
 <br>
 
