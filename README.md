@@ -39,7 +39,6 @@ const developer = {
         "Full Stack Developer",
         "AI/ML Engineer", 
         "UI/UX Designer",
-        "Graphics Head @ Campus Chronicles"
     ],
     
     currentFocus: [
@@ -100,15 +99,15 @@ const developer = {
 <img src="https://img.icons8.com/3d-fluency/120/rocket.png"/>
 <br><br>
 <h3><i>🚀 Hackathon Expert</i></h3>
-<p><b>12+ Hackathons</b></p>
-<sub><i>6x Finalist</i></sub>
+<p><b>25+ Hackathons</b></p>
+<sub><i>5x Winner</i></sub>
 </td>
 <td align="center" width="25%" style="padding: 20px;">
-<img src="https://img.icons8.com/3d-fluency/120/paint-palette.png"/>
+<img src="https://img.icons8.com/3d-fluency/120/github.png"/>
 <br><br>
-<h3><i>🎨 Graphics Head</i></h3>
-<p><b>Campus Chronicles</b></p>
-<sub><i>Leading Creative Team</i></sub>
+<h3><i>🔥 Open Source Contributor</i></h3>
+<p><b>PR Merged in TensorFlow</b></p>
+<sub><i>Contributed to Google's ML Framework</i></sub>
 </td>
 <td align="center" width="25%" style="padding: 20px;">
 <img src="https://img.icons8.com/3d-fluency/120/book-shelf.png"/>
