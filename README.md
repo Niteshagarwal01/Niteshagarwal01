@@ -1,7 +1,4 @@
 
-<div align="center">
-<img width="4950" height="1238" alt="LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/6416723c-011e-40e1-8b51-1a522ea81685" />
-
 
 </div>
 
